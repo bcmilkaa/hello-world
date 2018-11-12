@@ -1,3 +1,3 @@
 # hello-world
-Ich möchte die Welt grüßen
+Ich möchte die Welt grüßen.
 Git scheint sehr nützlich!
